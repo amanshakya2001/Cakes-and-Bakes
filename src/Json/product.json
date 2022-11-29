@@ -1,0 +1,148 @@
+[
+    {
+        "img":"./assests/images/Cakesitem.jpg",
+        "Category":["Cakes","Anniversary Special","Coming Soon"],
+        "name":"Chocolate cake",
+        "price":650,
+        "isProduct":10
+    },
+    {
+
+        "img":"./assests/images/Vanillacake.jpg",
+        "Category":["Cakes","Coming Soon"],
+        "name":"Vannila cake",
+        "price":550,
+        "isProduct":20
+    },
+    {
+
+        "img":"./assests/images/Rose.jpeg",
+        "Category":["Flowers","Anniversary Special","Coming Soon"],
+        "name":"Rose",
+        "price":250,
+        "isProduct":100
+    },
+    {
+
+        "img":"./assests/images/BirthdayDecoration.jpg",
+        "Category":"Birthday",
+        "name":"Birthday Decoration combo",
+        "price":450,
+        "isProduct":0
+    },
+    {
+
+        "img":"./assests/images/dairyMilksilk.webp",
+        "Category":["Chocolate","Anniversary Special","Coming Soon"],
+        "name":"Dairy milk Silk",
+        "price":450,
+        "isProduct":10
+    },
+    {
+
+        "img":"./assests/images/Teddy.jpg",
+        "Category":["Toy","Anniversary Special"],
+        "name":"Teddy Bear",
+        "price":450,
+        "isProduct":10
+    },
+    {
+
+        "img":"https://www.fnp.com/images/pr/l/v20210325114043/chocolate-truffle-cream-cake_1.jpg",
+        "Category":"Cakes",
+        "name":"Chocolate Truffle Delicious Cake Half Kg",
+        "price":549,
+        "isProduct":10
+    },
+    {
+
+        "img":"https://www.fnp.com/images/pr/l/v20201104202655/rosy-heart-chocolate-cake_1.jpg",
+        "Category":"Cakes",
+        "name":"Rosy Heart Chocolate Cake- 500 Gms",
+        "price":549,
+        "isProduct":10
+    },
+    {
+
+        "img":"https://www.fnp.com/images/pr/l/v20210323125842/black-forest-cake_1.jpg",
+        "Category":"Cakes",
+        "name":"Black Forest Cake Half kg",
+        "price":549,
+        "isProduct":10
+    },
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20190116185524/valentine-heart-shaped-cake_1.jpg",
+        "Category":"Cakes",
+        "name":"Valentine Heart Shaped Cake 1kg Chocolate.",
+        "price":549,
+        "isProduct":10
+    },
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20190910110255/birthday-special-black-personalised-magic-mug_1.jpg",
+        "Category":"Personalised Gift",
+        "name":"Birthday Special Black Personalised Magic",
+        "price":379,
+        "isProduct":10
+    }
+    ,
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20220421125913/personalised-temperature-display-black-water-bottle_1.jpg",
+        "Category":"Personalised Gift",
+        "name":"Personalised Temperature Display Black Water Bottle",
+        "price":749,
+        "isProduct":10
+    }
+    ,
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20200313110202/birthday-celebrations-personalised-cushion_1.jpg",
+        "Category":"Personalised Gift",
+        "name":"Birthday Celebrations Personalised Cushion",
+        "price":379,
+        "isProduct":10
+    }
+    ,
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20211012045658/happy-birthday-personalised-photo-frame_1.jpg",
+        "Category":"Personalised Gift",
+        "name":"Personalised Happy Birthday Photo Frame",
+        "price":499,
+        "isProduct":10
+    },
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20210226121315/personalised-bluetooth-led-speaker_1.jpg",
+        "Category":"Personalised Gift",
+        "name":"Personalised Bluetooth LED Speaker",
+        "price":799,
+        "isProduct":10
+    }
+    ,
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20200908070245/chefs-birthday-personalised-chopping-board_1.jpg ",
+        "Category":"Personalised Gift",
+        "name":"Personalised Chefs Birthday Chopping Board",
+        "price":649,
+        "isProduct":10
+    },
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20190610174847/romantic-bunch-of-mixed-roses_1.jpg",
+        "Category":"Flowers",
+        "name":"Mixed Roses Romantic Bunch",
+        "price":549,
+        "isProduct":10
+    },
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20211026183646/mixed-carnations-and-yellow-roses-anniversary-vase_1.jpg",
+        "Category":"Flowers",
+        "name":"Mixed Carnations & Yellow Roses In Anniversary Vase",
+        "price":599,
+        "isProduct":10
+    }
+    ,
+    {
+        "img":"https://www.fnp.com/images/pr/l/v20210407115627/premium-orange-roses-arrangement_1.jpg",
+        "Category":"Flowers",
+        "name":"Premium Orange Roses Arrangement",
+        "price":1249,
+        "isProduct":10
+    }
+]

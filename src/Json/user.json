@@ -1,0 +1,67 @@
+[
+    {
+        "Username":"Aman Shakya",
+        "password":"12345678",
+        "Email":"amanshakya360@gmail.com",
+        "order":{
+                    "id":"256",
+                    "category":"cakes",
+                    "price":256,
+                    "amount":1
+        },
+        "rate":[1,2,3,4],
+        "Feedback":"Before starting any kind of feedback analysis, you’ll need to find quality customer feedback. You’ll also need to have a strategy in place to sort that feedback, and then you’ll need."
+    },
+    {
+        "Username":"Tarun Gupta",
+        "password":"98765432",
+        "Email":"Decentdevil@gmail.com",
+        "order":{
+                    "id":"256",
+                    "category":"cakes",
+                    "price":256,
+                    "amount":1
+        },
+        "rate":[1,2,3],
+        "Feedback":"Before starting any kind of feedback analysis, you’ll need to find quality customer feedback. You’ll also need to have a strategy in place to sort that feedback, and then you’ll need."
+    },
+    {
+        "Username":"taruwarsh kumar",
+        "password":"12345678",
+        "Email":"amanshakya360@gmail.com",
+        "order":{
+                    "id":"256",
+                    "category":"cakes",
+                    "price":256,
+                    "amount":1
+        },
+        "rate":[1,2,3,4,5],
+        "Feedback":"Before starting any kind of feedback analysis, you’ll need to find quality customer feedback. You’ll also need to have a strategy in place to sort that feedback, and then you’ll need."
+    },
+    {
+        "Username":"shivam srivastava",
+        "password":"12345678",
+        "Email":"amanshakya360@gmail.com",
+        "order":{
+                    "id":"256",
+                    "category":"cakes",
+                    "price":256,
+                    "amount":1
+        },
+        "rate":[1,2,3,4,5],
+        "Feedback":"Before starting any kind of feedback analysis, you’ll need to find quality customer feedback. You’ll also need to have a strategy in place to sort that feedback, and then you’ll need."
+    },
+    {
+        "Username":"astha verma",
+        "password":"12345678",
+        "Email":"amanshakya360@gmail.com",
+        "order":{
+                    "id":"256",
+                    "category":"cakes",
+                    "price":256,
+                    "amount":1
+        },
+        "rate":[1,2],
+        "Feedback":"Before starting any kind of feedback analysis, you’ll need to find quality customer feedback. You’ll also need to have a strategy in place to sort that feedback, and then you’ll need."
+    }
+]
