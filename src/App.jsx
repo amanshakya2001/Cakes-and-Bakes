@@ -27,7 +27,7 @@ export default function App() {
   const [cartItemsObject,setCartItemsObject] = useState([]);
   const [login, setLogin] = useState(false);
   const [loginUser,setLoginUser] = useState({});
-  const [category] = useState([{'img':'/assests/images/Truck.png','category':'delivery'},{'img':'/assests/images/Cakes.png','category':'cakes'},{'img':'/assests/images/birthday.jpg','category':'birthday'},{'img':'/assests/images/anniversary.png','category':'aniversary'},{'img':'/assests/images/occasion.png','category':'occassions'},{'img':'/assests/images/combos.png','category':'combos'},{'img':'/assests/images/flowers.png','category':'flowers'},{'img':'/assests/images/chocolate.png','category':'Chocolates'}]);
+  const [category] = useState([{'img':'./assests/images/Truck.png','category':'delivery'},{'img':'./assests/images/Cakes.png','category':'cakes'},{'img':'./assests/images/birthday.jpg','category':'birthday'},{'img':'./assests/images/anniversary.png','category':'aniversary'},{'img':'./assests/images/occasion.png','category':'occassions'},{'img':'./assests/images/combos.png','category':'combos'},{'img':'./assests/images/flowers.png','category':'flowers'},{'img':'./assests/images/chocolate.png','category':'Chocolates'}]);
   const [search,setSearch] = useState("");
 
   // Functions
