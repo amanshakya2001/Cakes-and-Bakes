@@ -2,7 +2,7 @@
   "name": "cakes_bakes_duplicate",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/amanshakya2001/CakesandBakes",
+  "homepage":"https://amanshakya2001.github.io/CakesandBakes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
