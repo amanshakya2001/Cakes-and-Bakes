@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CakesandBakes/static/css/main.cc9fd925.css",
-    "main.js": "/CakesandBakes/static/js/main.c2029e94.js",
+    "main.js": "/CakesandBakes/static/js/main.6c153d13.js",
     "static/media/Fruitbanner.jpg": "/CakesandBakes/static/media/Fruitbanner.5e5fe36fafbd808209b1.jpg",
     "static/media/banner.jpg": "/CakesandBakes/static/media/banner.5ceddfa5f52ce21ca68a.jpg",
     "index.html": "/CakesandBakes/index.html",
     "main.cc9fd925.css.map": "/CakesandBakes/static/css/main.cc9fd925.css.map",
-    "main.c2029e94.js.map": "/CakesandBakes/static/js/main.c2029e94.js.map"
+    "main.6c153d13.js.map": "/CakesandBakes/static/js/main.6c153d13.js.map"
   },
   "entrypoints": [
     "static/css/main.cc9fd925.css",
-    "static/js/main.c2029e94.js"
+    "static/js/main.6c153d13.js"
   ]
 }
